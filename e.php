@@ -1,4 +1,4 @@
 <?php
 
-echo "deneme";
+echo "deneme bir iki ";
 ?>
