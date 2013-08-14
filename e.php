@@ -1,4 +1,4 @@
 <?php
 
-echo "deneme bir iki ";
+echo "deneme bir iki ьз ";
 ?>
