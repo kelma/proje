@@ -11,3 +11,5 @@ http://php.net/manual/en/language.variables.variable.php
 
 5.4 yenilikler?
 
+http://www.phpro.org/manual/
+
