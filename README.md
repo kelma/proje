@@ -4,3 +4,10 @@ http://ysfkc.com/php/singleton-design-pattern
 http://www.webteders.com/blog/detay/Php-de-Interface-Nedir.-Nasil-Kullanilir./28
 
 http://framework.zend.com/manual/2.1/en/modules/zend.mvc.quick-start.html
+
+
+$$var
+http://php.net/manual/en/language.variables.variable.php
+
+5.4 yenilikler?
+
