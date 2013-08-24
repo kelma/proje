@@ -19,3 +19,6 @@ http://coenraets.org/blog/2011/12/restful-services-with-jquery-php-and-the-slim-
 http://nesbot.com/2012/11/5/lazy-loading-slim-controllers-using-pimple
 
 http://nesbot.com/2012/6/26/multilingual-site-using-slim
+
+
+http://webees.me/linux/installing-php-5-4-and-mysql-5-5-in-centos-6-4-with-yum/
