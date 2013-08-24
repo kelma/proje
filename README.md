@@ -22,3 +22,5 @@ http://nesbot.com/2012/6/26/multilingual-site-using-slim
 
 
 http://webees.me/linux/installing-php-5-4-and-mysql-5-5-in-centos-6-4-with-yum/
+
+http://rpms.famillecollet.com/
