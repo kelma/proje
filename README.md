@@ -5,7 +5,8 @@ http://www.webteders.com/blog/detay/Php-de-Interface-Nedir.-Nasil-Kullanilir./28
 
 http://framework.zend.com/manual/2.1/en/modules/zend.mvc.quick-start.html
 
-
+https://github.com/mjaschen/phpgeo
+https://github.com/rmccue/Requests
 $$var
 http://php.net/manual/en/language.variables.variable.php
 
