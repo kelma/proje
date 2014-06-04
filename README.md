@@ -34,3 +34,9 @@ http://codingexplained.com/
 
 http://wkhtmltopdf.org/
 
+https://github.com/ziadoz/awesome-php
+
+https://github.com/PHP-FFMpeg/PHP-FFMpeg/
+
+http://codegeekz.com/best-php-libraries-for-developers/
+
