@@ -30,4 +30,7 @@ http://culttt.com/2012/10/01/roll-your-own-pdo-php-class/
 
 http://phpimageworkshop.com/
 
+http://codingexplained.com/
+
+http://wkhtmltopdf.org/
 
